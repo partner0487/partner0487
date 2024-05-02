@@ -13,6 +13,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and so on.\
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp;You can shoot me an email at <img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

@@ -11,20 +11,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the National Taiwan Ocean University.\
 🎯 &nbsp;Interested in AI development, UI design and various programming designs.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and so on.\
-✉️ &nbsp;You can shoot me an email at <img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">\
-📄 &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
-
-
-##### NOW
-
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently studying in college and aspiring to become an engineer
-
-#### BIO
-
-- 🎯 Interested in AI development, UI design and various programming designs.
-- 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> 
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp;You can shoot me an email at <img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">\
 
 ### 🛠 &nbsp;Languages and Tools
 

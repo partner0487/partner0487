@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Partner! Student - Information Software Engineering 
 </h3> 
 
-<h2 align="center"> 🛠 &nbsp;Languages and Tools </h2>
+###🛠 &nbsp;Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

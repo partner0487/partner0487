@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> Hey! Nice to see you </h1>
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I'am Partner! Student - Information Software Engineering 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I'am Partner ! Student - Information Software Engineering 
 </h3> 
 
 ### 👨🏻‍💻 &nbsp;About Me

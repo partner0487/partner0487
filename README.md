@@ -9,7 +9,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the National Taiwan Ocean University.\
-🎯 &nbsp;Interested in AI development, UI design and various programming designs.
+🎯 &nbsp;Interested in AI development, UI design and various programming designs.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and so on.\
 ✉️ &nbsp;You can shoot me an email at <img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">\
 📄 &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!

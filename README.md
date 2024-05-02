@@ -4,6 +4,19 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Partner! Student - Information Software Engineering 
 </h3> 
 
+### 👨🏻‍💻 &nbsp;About Me
+
+##### NOW
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently studying in college and aspiring to become an engineer
+
+#### BIO
+
+- 🎯 Interested in AI development, UI design and various programming designs.
+- 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> 
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
 ###🛠 &nbsp;Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -19,17 +32,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-##### NOW
-
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently studying in college and aspiring to become an engineer
-
-#### BIO
-
-- 🎯 Interested in AI development, UI design and various programming designs.
-- 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> 
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

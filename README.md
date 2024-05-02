@@ -8,7 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partner0487&layout=compact&theme=radical" />
   </a>
 
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=partner0487&theme=github-compact" />
   </a>
   

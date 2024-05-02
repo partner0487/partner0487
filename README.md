@@ -8,4 +8,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partner0487&layout=compact&theme=radical" />
   </a>
 
+  <img src="https://activity-graph.herokuapp.com/graph?username=partner0487&theme=xcode" />
+
 </div>

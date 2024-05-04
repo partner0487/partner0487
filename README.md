@@ -49,7 +49,7 @@
   </a>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=partner0487&theme=github-compact" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=partner0487&count_private=true&theme=github-compact" />
   </a>
   
 </div>

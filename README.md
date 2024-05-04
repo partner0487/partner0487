@@ -42,10 +42,10 @@
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=partner0487&hide_title=true&show_icons=true&count_private=true&theme=radical&count_private=true)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=partner0487&hide_title=true&show_icons=true&count_private=true&theme=radical&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partner0487&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partner0487&layout=compact&theme=radical&count_private=true" />
   </a>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partner0487&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,21 +1,20 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> Hey! Nice to see you </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> 嘿！很高興見到你 </h1>
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I'am Partner ! Student - Information Software Engineering 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> 我是 Partner ! 一位就讀資訊軟體工程的學生
 </h3> 
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;關於我
 
-
-💡 &nbsp;   I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;   I'm currently studying Computer Science and Mathematics at the National Taiwan Ocean University.\
-🎯 &nbsp;   Interested in AI development, UI design and various programming designs.\
-🌱 &nbsp;   I'm on track for learning more about Artificial Intelligence, Systems Design, and so on.\
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; You can shoot me an email at  <img alt="GitHub" src="https://img.shields.io/badge/-partner0487@gmail.com-c14438?logo=Gmail&logoColor=white">
+💡 &nbsp;   我喜歡探索新技術、開發軟體解決方案和快速技巧。\
+🎓 &nbsp;   我目前在國立台灣海洋大學研讀資訊工程。\
+🎯 &nbsp;   對AI開發、UI設計以及各種程式設計有興趣。\
+🌱 &nbsp;   我正在學習更多有關人工智慧、系統設計等方面的知識。\
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; 你可以給我發一封電子郵件  <img alt="GitHub" src="https://img.shields.io/badge/-partner0487@gmail.com-c14438?logo=Gmail&logoColor=white">
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;語言和工具
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -42,7 +41,7 @@
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub 分析
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">

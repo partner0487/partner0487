@@ -10,7 +10,6 @@
 🎓 &nbsp;   我目前在國立台灣海洋大學研讀資訊工程。\
 🎯 &nbsp;   對AI開發、UI設計以及各種程式設計有興趣。\
 🌱 &nbsp;   我正在學習更多有關人工智慧、系統設計等方面的知識。\
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; 你可以給我發一封電子郵件  <img alt="GitHub" src="https://img.shields.io/badge/-partner0487@gmail.com-c14438?logo=Gmail&logoColor=white">
 
 ## 🛠 &nbsp;語言和工具
 

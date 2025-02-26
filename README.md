@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> 嘿！很高興見到你 </h1>
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> 我是 Partner ! 一位就讀資訊軟體工程的學生
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> 我是 Partner ! 一位就讀資訊工程的學生
 </h3> 
 
 ## 👨🏻‍💻 &nbsp;關於我

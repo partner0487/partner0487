@@ -49,6 +49,8 @@
   海大資工學分計算 Android App。
 - <img src="https://skillicons.dev/icons?i=html" width="18" /> [**honkai_wiki**](https://github.com/partner0487/honkai_wiki)<br>
   星穹鐵道角色資料查詢網站。
+- <img src="https://skillicons.dev/icons?i=html" width="18" /> [**Overwatch2 最佳陣容模擬器**](https://github.com/DHugo324/Web-Programming-Project)<br>
+  依照敵方陣容推薦我方適合的英雄組合，另外附英雄和角色類型介紹。
 - <img src="https://skillicons.dev/icons?i=java" width="18" /> [**JAVA_EndTerm_project**](https://github.com/partner0487/JAVA_EndTerm_project)<br>
   Java 圖片編輯器，可以套濾鏡、合成圖片、編輯 GIF。
 

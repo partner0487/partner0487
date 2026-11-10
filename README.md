@@ -27,14 +27,14 @@
 
 **碩士課程**
 
-- <img src="https://skillicons.dev/icons?i=python" width="18" /> [**強化學習 平台跳躍遊戲**](https://github.com/partner0487/RL_Platform_Game)<br>
+- <img src="https://skillicons.dev/icons?i=python" width="18" /> [**Applying Reinforcement Learning to 2D Precision Platformer Games**](https://github.com/partner0487/RL_Platform_Game)<br>
   自己寫的 PyGame 平台跳躍遊戲，再訓練 agent 去玩。一個讀遊戲數值的 PPO、一個只看畫面的 CNN，比較兩者的表現。
 
 **個人專案**
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/partner0487/hoyoCalendar/main/assets/logo_black_removebg.png"><img src="https://raw.githubusercontent.com/partner0487/hoyoCalendar/main/assets/logo_white_removebg.png" width="18" /></picture> [**二遊更新日曆**](https://github.com/partner0487/hoyoCalendar)（[Demo](https://hoyo-calendar.vercel.app)）<br>
   自動抓原神、星鐵、鳴潮等遊戲官網公告，整理成日曆，可以一鍵同步到 Google 日曆。
-- <img src="https://skillicons.dev/icons?i=python" width="18" /> [**遊戲劇情 AI 配音**](https://github.com/partner0487/hoyoTTS)<br>
+- <img src="https://skillicons.dev/icons?i=python" width="18" /> [**hoyoTTS**](https://github.com/partner0487/hoyoTTS)<br>
   用 OCR 讀遊戲劇情的文字和角色名稱，再用 AI 配音念出來。
 - <img src="https://raw.githubusercontent.com/partner0487/TaskSystem/main/docs/icon.png" width="18" /> [**任務系統**](https://github.com/partner0487/TaskSystem)<br>
   Android 待辦 App，沒做完的任務會一直掛在通知欄，拉下來就能打勾。
